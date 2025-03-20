@@ -1,0 +1,37 @@
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 22px;
+    text-align: center; 
+}
+
+h2{
+    font-size: 18px;
+    color: #88100f; 
+    font-weight: normal;
+    text-align: center;  
+}
+
+h3{
+    font-size: 16px;
+    text-decoration: underline;
+    color: #88100f;
+    
+}
+P{
+    font-size: 14px;
+    line-height: 28px;
+    background-color:rgb(red, green, blue);
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+    text-align: justify;
+    margin-top: auto;
+    border-bottom: dashed 2px (244, 244, 150);
+   
+    
+}
+
+
